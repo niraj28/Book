@@ -1,4 +1,4 @@
-package com.bookproject.BookProject;
+package com;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
